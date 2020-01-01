@@ -1,6 +1,6 @@
 #Molinas Construction Company
 
-Repo for [startup in construction](https://www.molinas.co/).
+Repo for [family-owned construction startup](https://www.molinas.co/).
 
 ## Support
 
