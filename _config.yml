@@ -1,0 +1,24 @@
+# Site settings
+title: Molinas Construction Company
+header-img: img/home-bg.jpg
+email: david@molinas.co
+copyright_name: © 2017 Molinas Construction Company
+description: "Molinas Construction Company is dedicated to providing mission critical support to government customers and general contractors with challenging construction services and construction heavy equipment."
+baseurl: ""
+url: "https://www.molinas.co"
+twitter_username: davidcmolina
+github_username:  davidmolina
+facebook_username:  david.molina1
+email_username:  david@molinas.co
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
