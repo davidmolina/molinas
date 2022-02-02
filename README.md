@@ -1,4 +1,4 @@
-#Molinas Construction Company
+# Molinas Construction Company
 
 Repo for [family-owned construction startup](https://www.molinas.co/).
 
