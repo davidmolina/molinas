@@ -18,8 +18,6 @@ Location: White City, OR
 
 Client: U.S. Department of Veterans Affairs, Seattle District
 
-Contract Value: $27,739.76
-
 Year Completed: 2017
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23557.51393757938!2d-122.84906748741592!3d42.43434911762888!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54c58c1d1d3083db%3A0xbe3b22675a01f58c!2sWhite+City%2C+OR!5e0!3m2!1sen!2sus!4v1506121829109" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>

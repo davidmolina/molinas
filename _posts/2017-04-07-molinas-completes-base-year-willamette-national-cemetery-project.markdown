@@ -16,8 +16,6 @@ Location: Portland, OR
 
 Client: U.S. Department of Veterans Affairs, National Cemetery Administration, Willamette National Cemetery
 
-Contract Value: $527,400 (total aggregate value of contract)
-
 Year Completed: 2017
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d357678.18886647734!2d-122.93460370171731!3d45.54306603167997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54950b0b7da97427%3A0x1c36b9e6f6d18591!2sPortland%2C+OR!5e0!3m2!1sen!2sus!4v1506124248725" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>

@@ -29,8 +29,6 @@ Location: Walla Walla, WA
 
 Client: U.S. Army Corps of Engineers, Walla Walla District
 
-Contract Value: $88,072
-
 Year Completed: 2015
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d44303.4577089547!2d-118.36840340136006!3d46.051774284878626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54a2154ba0d0f73b%3A0x12c4afcfe71db1d4!2sWalla+Walla%2C+WA+99362!5e0!3m2!1sen!2sus!4v1506107146795" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
