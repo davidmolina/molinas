@@ -16,4 +16,5 @@ group :jekyll_plugins do
 	gem "jekyll-feed", "~> 0.12"
 	gem "webrick"
   gem "jekyll-timeago", "~> 0.13.1"
+	gem "jekyll-sass-converter"
 end
